@@ -17,7 +17,8 @@
 
 ###
 
-<p align="left">Me chamo Guilherme França Fernandes e resido em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB. Atualmente sou um desenvolvedor Front-End mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS, JavaScript, Angular e Python.</p>
+<p align="left">Me chamo Guilherme França Fernandes e resido em Brasília-DF. 
+  Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB. sou um desenvolvedor Front-End mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS, JavaScript, Angular e Python.</p>
 
 ###
 
