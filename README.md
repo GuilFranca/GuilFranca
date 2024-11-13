@@ -17,12 +17,11 @@
 
 ###
 
-<p align="left">Me chamo Guilherme França Fernandes e resido em Brasília-DF. 
-  Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB. Sou um desenvolvedor Front-End mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS, JavaScript, Angular e Python.</p>
+<p align="left">Me chamo Guilherme França Fernandes e resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB. Sou um desenvolvedor Front-End mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS, JavaScript, Angular e Python.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -42,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
