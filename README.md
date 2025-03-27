@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Resido em Brasília-DF. Estou cursando análise e desenvolvimento de sistemas na faculdade IESB. Sou um desenvolvedor Front-End, mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS, JavaScript e Python.</p>
+<p align="left">Resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI. Sou desenvolvedor Front-End, mas minha aspiração é me tornar um desenvolvedor Full-Stack. Atualmente, trabalho com HTML, CSS e JavaScript na criação de sites, além de utilizar Python na área de automação.</p>
 
 ###
 
@@ -49,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilfranca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
