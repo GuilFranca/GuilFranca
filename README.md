@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Olá, me chamo Guilherme França Fernandes 👋</h1>
+<h1 align="center">Olá, me chamo Guilherme França</h1>
 
 ###
 
