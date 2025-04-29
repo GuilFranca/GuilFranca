@@ -9,11 +9,11 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Olá, me chamo Guilherme França 👋</h1>
 
 ###
 
-<p align="left">Me chamo Guilherme França Fernandes e resido em Brasília-DF. Estou cursando análise e desenvolvimento de sistemas na faculdade IESB. Sou um desenvolvedor Front-End, mas minha aspiração é me tornar um desenvolvedor full-stack, trabalho atualmente com HTML/CSS e JavaScript.</p>
+<p align="left">Resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI. Sou desenvolvedor Front-End, mas minha aspiração é me tornar um desenvolvedor Full-Stack. Atualmente, trabalho com HTML, CSS e JavaScript na criação de sites.</p>
 
 ###
 
