@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor Full-Stack, resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI.</p>
+<p align="left">Sou desenvolvedor Full-Stack, resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI. Sempre buscando me aperfeiçoar como pessoa e profissional a cada dia.</p>
 
 ###
 
