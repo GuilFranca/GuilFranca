@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI. Sou desenvolvedor Front-End, mas minha aspiração é me tornar um desenvolvedor Full-Stack. Atualmente, trabalho com HTML, CSS e JavaScript na criação de sites.</p>
+<p align="left">Sou desenvolvedor Full-Stack, resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e também faço um curso técnico de Desenvolvimento de Sistemas pelo SENAI.</p>
 
 ###
 
