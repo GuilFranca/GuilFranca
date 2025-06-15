@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h3 align="left">Tecnologias</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Em estudo</h2>
+<h3 align="left">Em estudo</h3>
 
 ###
 
