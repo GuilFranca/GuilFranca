@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://brand.vtex.com/wp-content/themes/vtex-brand/img/logo.svg" height="40" alt="VTEX logo"  />
 </div>
 
 ###
