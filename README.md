@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpKDn65p2LyEODWdBg_DIrrISwnu_lxZKQ&s" height="40" alt="VTEX logo" style="border-radius: 5px;" />
+  <img src="./imgs/vtex.svg" height="40" alt="VTEX logo" style="border-radius: 5px;" />
 </div>
 
 ###
