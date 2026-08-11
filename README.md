@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">Sou desenvolvedor Full-Stack, resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente estou trabalhando como estagiário de desenvolvimento na Quality Digital. Sempre buscando me aperfeiçoar como pessoa e profissional a cada dia.</p>
+<p align="center">Sou desenvolvedor Full-Stack, resido em Brasília-DF. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade IESB e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente estou trabalhando desenvolvedor na Quality Digital. Sempre buscando me aperfeiçoar como pessoa e profissional a cada dia.</p>
 
 ###
 
